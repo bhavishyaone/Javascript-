@@ -1,0 +1,8 @@
+{
+    "name" : "SHiva",
+    "age":19,
+    "email" : "Shiva10@gmail.com",
+    "isStudent" : true,
+    "hobbies" : ["Reading", "Coding", "Rapping"],
+    "Address" : "Your Space in pune Lohegaon"
+}
