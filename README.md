@@ -45,5 +45,8 @@ This folder explores advanced JavaScript concepts, focusing on the Document Obje
   - Accessing the DOM
   - Text manipulation
   - ClassList manipulation
+  - Getting and setting Attributes
+  - Siblings
+  - Styles
 
 Each folder contains code examples and exercises to help you learn and practice JavaScript effectively. Feel free to explore the folders and use the code for your learning journey! 
