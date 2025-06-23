@@ -1,6 +1,6 @@
 # Complete JavaScript Course
 
-This repository contains resources, code, and exercises for a comprehensive JavaScript course, organized into two main sections:
+This repository contains resources, code, and exercises for a comprehensive JavaScript course, organized into three main sections:
 
 ## 1. Beginner
 This folder covers the basics of JavaScript, including fundamental concepts and introductory exercises.
@@ -36,6 +36,14 @@ This folder dives into more advanced JavaScript topics and data structures.
 - 10. Set Data structurre in javascript
 - 10. Symbols
 
----
+## 3. Advance
+This folder explores advanced JavaScript concepts, focusing on the Document Object Model (DOM) and related topics for dynamic web development.
+
+**Contents:**
+- 1. DOM
+  - What is DOM
+  - Accessing the DOM
+  - Text manipulation
+  - ClassList manipulation
 
 Each folder contains code examples and exercises to help you learn and practice JavaScript effectively. Feel free to explore the folders and use the code for your learning journey! 
